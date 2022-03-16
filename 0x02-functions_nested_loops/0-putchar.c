@@ -1,14 +1,4 @@
-#include<unistd.h>
 #include "main.h"
-/**
-* _putchar outputc
-* character c
-* to stdout
-*/
-int _putchar(char c)
-{
-return (write(1,&c,1));
-}
 int main(void)
 {
 _putchar('_');
@@ -20,5 +10,5 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
-return(0);
+return (0);
 }
