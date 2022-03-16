@@ -1,8 +1,12 @@
+/**
+* define print_alphabet
+* function
+*/
 #include "main.h"
 /**
-* prints the alphabet
+* prints the letters
+* of the alphabet
 * in lowercase
-* followed by a new line
 */
 void print_alphabet(void)
 {
