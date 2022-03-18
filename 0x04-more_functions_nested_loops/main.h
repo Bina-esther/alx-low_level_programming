@@ -8,7 +8,7 @@
 
 * for the directory
 
-* 0x002 functions nested loops
+* 0x04 more functions nested loops
 
 */
 int _isupper(int c);
