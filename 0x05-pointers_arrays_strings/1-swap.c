@@ -5,10 +5,6 @@
 * @b - Integer to swap
 * Return void
 */
-
-/** @a - Integer to swap
-* @b - Integer to swap
-*/
 void swap_int(int *a, int *b)
 {
 /* declare a third variable to swap */
