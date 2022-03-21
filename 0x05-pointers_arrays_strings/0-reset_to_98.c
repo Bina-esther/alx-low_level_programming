@@ -1,5 +1,6 @@
 #include "main.h"
-/* updates the value it points to to 98
+/**
+* updates the value it points to to 98
 * n is the pointer to n
 * Return void
 */
