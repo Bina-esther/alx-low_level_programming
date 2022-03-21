@@ -1,10 +1,6 @@
 #ifndef MAIN_H
 
-
-
 #define MAIN_H
-
-
 
 /**
 
@@ -14,5 +10,7 @@
 * 0x05 pointers arrays and strings
 */
 int _putchar(char c);
+/*updates the value of a parameter*/
+void reset_to_98(int *n);
 
 #endif
