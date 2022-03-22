@@ -32,4 +32,7 @@ void rev_string(char *s);
 /* prints every other character of a string */
 void puts2(char *str);
 
+/* prints half of a string */
+void puts_half(char *str);
+
 #endif
